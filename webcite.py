@@ -31,7 +31,7 @@ def get_times(driver):
 # urls = ['stackoverflow.com','umich.edu','paypal.com','npr.org'] #uncomment this for easy demo of everything working
 urls = []
 filepath = './txtfiles/'
-filename = 'IAandArquivoSites.txt'
+filename = 'IAandArquivoSites.txt' #couldn't find comprehensive list of sites on webcite
 fullpath = filepath + filename
 
 with open(fullpath,'r') as f:
