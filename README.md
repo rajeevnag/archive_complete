@@ -6,4 +6,4 @@ Writes URLS to be loaded to file "./tmp/arquivoURLS.txt" <br>
 Writes URLS to be loaded to file "./tmp/IAURLS.txt" <br>
 "webcite.py" creates urls for webcite. Does not take in any commandline arguments. <br>
 Uses selenium to get load times for archive. Does not write to file but would be easy to add if needed. <br>
-"launchWebsites.js" loades list of websites from textfile that you choose in code. Does not take in any commandline arguments. <br>
+"launchWebsites.js" loads list of websites from textfile that you choose in code. Does not take in any commandline arguments. <br>

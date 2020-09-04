@@ -64,7 +64,7 @@ async function launchWebsites(page_urls){
         
     let info = [];
     
-    let fileName = './loadTimes/archiveISLoadTimes.txt';
+    let fileName = './loadTimes/arquivoLoadTimes.txt';
     for(let i = 0; i < page_urls.length; ++i){
         try{
             let chrome = await openChrome();        
